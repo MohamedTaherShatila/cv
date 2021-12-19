@@ -2,6 +2,7 @@ body
 {
   background-color: #F5F5F5;
 }
+
 hr
 {
   border-top: 10px dotted #32a1ce;
@@ -10,6 +11,7 @@ hr
   border-bottom: none;
   width: 30%;
 }
+
 img {
   border-radius: 50%;
 }
