@@ -10,3 +10,6 @@ hr
   border-bottom: none;
   width: 30%;
 }
+img {
+  border-radius: 50%;
+}
