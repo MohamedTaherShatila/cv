@@ -2,7 +2,6 @@ body
 {
   background-color: #F5F5F5;
 }
-
 hr
 {
   border-top: 10px dotted #32a1ce;
@@ -11,7 +10,16 @@ hr
   border-bottom: none;
   width: 30%;
 }
-
 img {
   border-radius: 50%;
+}
+.mysign
+{
+  font-family: 'Sacramento', cursive;
+  font-size: 300%;
+}
+.mysign_p
+{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 200%;
 }
