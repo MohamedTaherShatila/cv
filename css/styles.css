@@ -23,3 +23,20 @@ img {
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-size: 200%;
 }
+.midinfo
+{
+  text-align: center;
+}
+.mytable
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+    width: 20%;
+    margin: auto;
+}
+ol {
+    width: 10%;
+    margin: auto;
+}
